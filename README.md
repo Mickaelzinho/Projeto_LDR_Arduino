@@ -16,9 +16,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/💜_ARDUINO-000000?style=for-the-badge&labelColor=000000&color=7B2CBF">
-<img src="https://img.shields.io/badge/🖤_HARDWARE-000000?style=for-the-badge&labelColor=000000&color=5A189A">
-<img src="https://img.shields.io/badge/⚡_AUTOMAÇÃO-000000?style=for-the-badge&labelColor=000000&color=A100F2">
+<img src="https://img.shields.io/badge/_ARDUINO-000000?style=for-the-badge&labelColor=000000&color=7B2CBF">
+<img src="https://img.shields.io/badge/_HARDWARE-000000?style=for-the-badge&labelColor=000000&color=5A189A">
+<img src="https://img.shields.io/badge/_AUTOMAÇÃO-000000?style=for-the-badge&labelColor=000000&color=A100F2">
 
 </div>
 
@@ -37,11 +37,11 @@ Através da leitura dos valores de luz (`analogRead`), o sistema processa as inf
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║   💡 Leitura de Luz via Sensor LDR       ║
-║   ⚡ Processamento de Dados no Arduino   ║
-║   🔋 Acionamento Automático do LED       ║
-║   🚀 Resposta Rápida e Eficiente         ║
-║                                          ║
-╚══════════════════════════════════════════╝
+
+                                          
+   💡 Leitura de Luz via Sensor LDR       
+   ⚡ Processamento de Dados no Arduino   
+   🔋 Acionamento Automático do LED       
+   🚀 Resposta Rápida e Eficiente         
+                                          
+
