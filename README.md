@@ -39,9 +39,9 @@ Através da leitura dos valores de luz (`analogRead`), o sistema processa as inf
 ```text
 
                                           
-   💡 Leitura de Luz via Sensor LDR       
-   ⚡ Processamento de Dados no Arduino   
-   🔋 Acionamento Automático do LED       
-   🚀 Resposta Rápida e Eficiente         
+   ● 💡 Leitura de Luz via Sensor LDR       
+   ● ⚡ Processamento de Dados no Arduino   
+   ● 🔋 Acionamento Automático do LED       
+   ● 🚀 Resposta Rápida e Eficiente         
                                           
 
